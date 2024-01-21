@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	margin: 0px;
+    position: relative;
+    min-height: 100vh;
+    color: #3c3c3c;
+    min-width: 768px;
+}
